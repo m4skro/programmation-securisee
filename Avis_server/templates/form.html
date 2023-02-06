@@ -1,0 +1,19 @@
+<!-- HTML form template -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Page title -->
+    <title>Formulaire d'avis</title>
+  </head>
+  <body>
+    <!-- Page header -->
+    <h1>Formulaire d'avis</h1>
+    <!-- Feedback form -->
+    <form action="{{ url_for('submit') }}" method="post">
+        <!-- Feedback text area -->
+      <textarea name="avis"></textarea><br>
+      <!-- Submit button -->
+      <input type="submit" value="Soumettre">
+    </form>
+  </body>
+</html>
