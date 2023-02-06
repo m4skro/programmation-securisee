@@ -4,14 +4,14 @@
 
 ### Added
 - CHANGELOG.md 
-- Added /Avis_server/
-- Added /Avis_server/templates/form.html
-- Added /Avis_server/templates/avis.html
-- Added /Avis_server/app.py
+- Added TP2/Avis_server/
+- Added TP2/Avis_server/templates/form.html
+- Added TP2/Avis_server/templates/avis.html
+- Added TP2/Avis_server/app.py
 
 ### Edited
-- /use_of_templates/templates/base.html
-- /use_of_templates/app.py
+- TP2/use_of_templates/templates/base.html
+- TP2/use_of_templates/app.py
 
 ### Deleted
 - Old CHANGELOG.md location
